@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/calc/Calculadora.java=UTF-8
+encoding//src/calc/CalculadoraService.java=UTF-8
+encoding//src/calc/CalculadoraServiceLocator.java=UTF-8
+encoding//src/calc/CalculadoraServiceSoapBindingStub.java=UTF-8

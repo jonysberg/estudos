@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="service.ControllerService"/>
+<fullyQualifiedTypeName name="javax.jws.WebMethod"/>
+<fullyQualifiedTypeName name="javax.annotation.processing.SupportedAnnotationTypes"/>
+<fullyQualifiedTypeName name="javax.jws.WebService"/>
+<fullyQualifiedTypeName name="calc.CalculadoraService"/>
+<fullyQualifiedTypeName name="calc.TestarCalculadora"/>
+<fullyQualifiedTypeName name="calc.CalculadoraProxy"/>
+</qualifiedTypeNameHistroy>
